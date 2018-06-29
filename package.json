@@ -1,5 +1,5 @@
 {
-  "name": "Dean's Site Template",
+  "name": "deans-boiler",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "^3.2.1",
