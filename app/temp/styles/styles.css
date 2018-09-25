@@ -504,6 +504,11 @@ small {
   font-weight: 500;
 }
 
+.pointer-cursor:hover {
+    cursor: pointer;
+    color: #3939c6;
+  }
+
 .reveal-item {
 	opacity: 0;
 	-webkit-transition: all 1.0s ease-out;

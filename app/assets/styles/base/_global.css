@@ -47,3 +47,11 @@ small {
 .semi-bold {
   @mixin semi-bold;
 }
+
+.pointer-cursor {
+  &:hover {
+    cursor: pointer;
+    color: $link-blue;
+  }
+}
+
